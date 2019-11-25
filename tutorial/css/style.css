@@ -196,7 +196,7 @@ nav ul li a:hover
         margin-left:75px;
 }
 
-#slider_content1, #slider_content2, #slider_content3
+#slider_content1, #slider_content2, #slider_content3, #slider_content4, #slider_content5, #slider_content6, #slider_content7
 {
         line-height: 25px;
         font-family: 'Open Sans', sans-serif;
@@ -208,7 +208,7 @@ nav ul li a:hover
         z-index:11;
 }
 
-#slider_content1 h3, #slider_content2 h3, #slider_content3 h3
+#slider_content1 h3, #slider_content2 h3, #slider_content3 h3 #slider_content4 h3, #slider_content5 h3, #slider_content6 h3 #slider_content7 h3
 {
         color:#EBE8DE;
         font-size:25px;
