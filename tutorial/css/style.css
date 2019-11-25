@@ -582,7 +582,7 @@ footer .wrapper .column h4
         color:red;
 }
 
-#slider_content1 p .responsive_button, #slider_content2 p .responsive_button, #slider_content3 p  .responsive_button
+#slider_content1 p .responsive_button, #slider_content2 p .responsive_button, #slider_content3 p  .responsive_button #slider_content4 p .responsive_button, #slider_content5 p .responsive_button, #slider_content6 p  .responsive_button #slider_content7 p  .responsive_button
 {
         display:none;
         color:#000;
@@ -606,20 +606,20 @@ footer .wrapper .column h4
 
 @media (max-width: 1215px)
 {
-        #slider_content1, #slider_content2, #slider_content3
+        #slider_content1, #slider_content2, #slider_content3, #slider_content4, #slider_content5, #slider_content6, #slider_content7
         {
                 width:auto;
                 margin-right:50px;
         }
-        #slider_content1 h2, #slider_content2 h2, #slider_content3 h2
+        #slider_content1 h2, #slider_content2 h2, #slider_content3 h2, #slider_content4 h2, #slider_content5 h2, #slider_content6 h2 #slider_content7 h2
         {
                 font-size:18px;
         }
-        #slider_content1 p, #slider_content2 p, #slider_content3 p
+        #slider_content1 p, #slider_content2 p, #slider_content3 p, #slider_content4 p, #slider_content5 p, #slider_content6 p, #slider_content7 p
         {
                 font-size:14px;
         }
-        #slider_content1 p .responsive_button, #slider_content2 p .responsive_button, #slider_content3 p  .responsive_button
+        #slider_content1 p .responsive_button, #slider_content2 p .responsive_button, #slider_content3 p  .responsive_button, #slider_content4 p .responsive_button, #slider_content5 p .responsive_button, #slider_content6 p  .responsive_button, #slider_content7 p  .responsive_button
         {
                 display:inline;
         }
