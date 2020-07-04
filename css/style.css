@@ -352,12 +352,12 @@ nav ul li a:hover
         font-size:14px;
         float:left;
         width:auto;
-        max-width: 600px;
+        max-width: 450px;
 }
 
 #text_columns .column2
 {
-        margin: 120px 0;
+        margin: 140px 0;
 }
 
 .row
