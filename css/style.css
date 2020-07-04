@@ -347,7 +347,7 @@ nav ul li a:hover
 /* TWO COLUMNS */
 
 #text_columns article.column1, #text_columns .column2
-{
+{ 
         margin: 70px 0;
         font-size:14px;
         float:left;
