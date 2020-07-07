@@ -103,14 +103,12 @@ header p
 
 nav
 {
-        position:absolute;
-        right:0;
-        bottom:0;
+        text-align:center;
 }
 
 nav ul
 {
-        list-style:none;
+        display:inline-block;
 }
 
 nav ul li
