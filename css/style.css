@@ -101,24 +101,9 @@ header p
         margin-left:132px;
 }
 
-nav
-{
-        position:absolute;
-        right:0;
-        bottom:0;
-}
-
-nav ul
-{
-        list-style:none;
-}
-
-nav ul li
-{
-        display:block;
-        float:left;
-        padding:3px 15px;
-}
+nav {text-align:center;}
+nav ul {display:inline-block;}
+nav ul li {display:inline-block;}
 
 nav ul li a
 {
